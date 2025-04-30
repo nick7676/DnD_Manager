@@ -1,1 +1,6 @@
 Manager pensato per gestire i PG dei giocatori, per la generazione randomica di loot in un DG, creazione di item custom 
+
+Che cosa voglio utilizzare:
+  -) C# per la componente di back-end 
+  -) LiteDB per salvare i dati
+  -) WPF per la parte grafica? React? Electron? Tauri? (ho citato framework più o meno a caso) 
