@@ -3,4 +3,3 @@ Manager pensato per gestire i PG dei giocatori, per la generazione randomica di 
 Che cosa voglio utilizzare:
   -) C# per la componente di back-end 
   -) LiteDB per salvare i dati
-  -) WPF per la parte grafica? React? Electron? Tauri? (ho citato framework più o meno a caso) 
